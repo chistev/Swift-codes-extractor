@@ -35,5 +35,5 @@ This Python script extracts bank names, cities, and SWIFT codes from the website
 2. Run the script:
 
 ```bash
-python swift_codes_extractor.py
+python main.py
 ```
